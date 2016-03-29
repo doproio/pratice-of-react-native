@@ -13,9 +13,15 @@ React Native homework for everyone.
 [http://reactnative.cn/docs/0.22/getting-started.html#content](http://reactnative.cn/docs/0.22/getting-started.html#content)  
 [http://wiki.jikexueyuan.com/project/react-native/](http://wiki.jikexueyuan.com/project/react-native/)
 
-###安卓环境搭建
+###React Native for Android 环境搭建
 [http://reactnative.cn/docs/0.22/android-setup.html#content](http://reactnative.cn/docs/0.22/android-setup.html#content)  
-[http://www.imbeta.cn/react-native-for-android-huan-jing-da-jian-ji-cai-keng.html](http://www.imbeta.cn/react-native-for-android-huan-jing-da-jian-ji-cai-keng.html#react-native-for-android-huan-jing-da-jian-ji-cai-keng)  
+[http://www.imbeta.cn/react-native-for-android-huan-jing-da-jian-ji-cai-keng.html](http://www.imbeta.cn/react-native-for-android-huan-jing-da-jian-ji-cai-keng.html#react-native-for-android-huan-jing-da-jian-ji-cai-keng) 
+
+国内Android Studio等工具下载    
+[http://www.androiddevtools.cn/ ](http://www.androiddevtools.cn/)
+
+Android Studio搭建安卓开发环境  
+[http://www.imbeta.cn/da-jian-an-zhuo-kai-fa-huan-jing-android-studio.html][http://www.imbeta.cn/da-jian-an-zhuo-kai-fa-huan-jing-android-studio.html]
 
 ###FlexBox介绍  
 [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
