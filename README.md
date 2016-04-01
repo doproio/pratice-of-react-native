@@ -21,7 +21,7 @@ React Native homework for everyone.
 [http://www.androiddevtools.cn/ ](http://www.androiddevtools.cn/)
 
 Android Studio搭建安卓开发环境  
-[http://www.imbeta.cn/da-jian-an-zhuo-kai-fa-huan-jing-android-studio.html][http://www.imbeta.cn/da-jian-an-zhuo-kai-fa-huan-jing-android-studio.html]
+[http://www.imbeta.cn/da-jian-an-zhuo-kai-fa-huan-jing-android-studio.html](http://www.imbeta.cn/da-jian-an-zhuo-kai-fa-huan-jing-android-studio.html)
 
 ###FlexBox介绍  
 [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
