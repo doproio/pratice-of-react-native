@@ -7,7 +7,7 @@ React Native homework for everyone.
 完成加分项 -- 得2分
 
 ##代码风格与规范
-[Frozen React Native Coding Style](https://github.com/QQVIPTeam/pratice-of-react-native/blob/master/frozen-react-native-coding-style.md#组件声明)
+[Frozen React Native Coding Style](https://github.com/QQVIPTeam/pratice-of-react-native/blob/master/frozen-react-native-coding-style.md)
 
 ##参考资料
 
