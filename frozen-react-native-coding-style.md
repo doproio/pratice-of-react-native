@@ -13,7 +13,7 @@
   - [标签](#标签)
   - [方法声明的顺序](#方法声明的顺序)
 -  Frozen组件规范
-	-  目录规范(待补充)
+	-  [目录规范](#目录规范)
 	-  [render](#render)
 	-  [getDefaultProps](#getDefaultProps)
 	-  [propTypes](#propTypes)
