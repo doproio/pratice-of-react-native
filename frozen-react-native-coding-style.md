@@ -14,6 +14,7 @@
   - [方法声明的顺序](#方法声明的顺序)
 -  Frozen组件规范
 	-  [目录规范](#目录规范)
+  -  [文档注释](#文档注释) 
 	-  [render](#render)
 	-  [getDefaultProps](#getDefaultProps)
 	-  [propTypes](#propTypes)
@@ -264,6 +265,52 @@ module.exports = require('react-native').StyleSheet.create({
 - font -- 字体文件存放目录
 - demo -- 组件demo存放目录，命名为`xxxExample.js`，例如: `ButtonExample.js`
 - view -- 组件存放目录，采用首字母大写的驼峰命名规则，例如: `Button.js`。
+
+### 文档注释
+使用esdoc生成文档，写基本的注释用于生成文档：
+使用`/**` 开头的注释将用于生成文档。  
+
+- 组件介绍和例子
+组件介绍必须，最好提供一到两个使用的例子  
+
+```js
+/**
+ * Avatar Component
+ * @example
+ * <Avatar src="xxxxx" size={50} />
+ */
+```
+
+- 组件参数
+当组件有参数的时候必须有组件参数类型，默认值，参数介绍。  
+
+```js
+/**
+ * This is Avatar constructor.
+ * @param {string} props.src - Image src
+ * @param {number} [props.size=40] - Avatar size
+ */
+```
+- 一个例子
+
+```js
+/**
+ * Avatar Component
+ * @example
+ * <Avatar src="xxxxx" size={50} />
+ */
+export default class Avatar extends Component {
+    /**
+     * This is Avatar constructor.
+     * @param {object} props
+     * @param {string} props.src - Image src
+     * @param {number} [props.size=40] - Avatar size
+     */
+    constructor(props) {
+        super(props);
+    };
+}
+```
 
 ### render
 
