@@ -15,9 +15,9 @@
 -  Frozen组件规范
 	-  [目录规范](#目录规范)
   -  [文档注释](#文档注释)
-	-  [render](#render)
-	-  [getDefaultProps](#getDefaultProps)
-	-  [propTypes](#propTypes)
+  -  [render](#render)
+  -  [getDefaultProps](#getDefaultProps)
+  -  [propTypes](#propTypes)
 - ES6代码风格
   - [变量与常量声明](#变量与常量声明)
   - [解构](#解构)
