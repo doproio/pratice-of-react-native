@@ -267,7 +267,7 @@ module.exports = require('react-native').StyleSheet.create({
 - view -- 组件存放目录，采用首字母大写的驼峰命名规则，例如: `Button.js`。
 
 ### 文档注释
-使用esdoc生成文档，写基本的注释用于生成文档：
+使用[ESDoc](https://esdoc.org)生成文档，写基本的注释用于生成文档：
 使用`/**` 开头的注释将用于生成文档。  
 
 - 组件介绍和例子
