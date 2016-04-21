@@ -14,7 +14,7 @@
   - [方法声明的顺序](#方法声明的顺序)
 -  Frozen组件规范
 	-  [目录规范](#目录规范)
-  -  [文档注释](#文档注释) 
+  -  [文档注释](#文档注释)
 	-  [render](#render)
 	-  [getDefaultProps](#getDefaultProps)
 	-  [propTypes](#propTypes)
